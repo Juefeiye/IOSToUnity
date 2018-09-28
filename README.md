@@ -10,7 +10,7 @@ unity端传过来的string参数，ios端必须分配空间，否则会造成内
 
             strdup(parameterString)
             
-并且必须在之前使用str
+并且必须在之前使用parameterString
 
 ios端调用unity方法：
             
