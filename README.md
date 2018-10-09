@@ -2,6 +2,8 @@
 
 ios和unity交互
 
+本文地址：https://www.jianshu.com/p/fec60dce7279
+
 unity端和ios端定义好方法名，ios实现之后，unity即可调用
 
 注意：
